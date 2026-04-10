@@ -28,6 +28,10 @@
 		{
 			"Name": "Odyssey",
 			"Enabled": false
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
