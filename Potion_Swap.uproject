@@ -3,13 +3,7 @@
 	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Potion_Swap",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
+	
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
